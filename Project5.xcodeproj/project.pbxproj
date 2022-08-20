@@ -13,6 +13,7 @@
 		46DA8BC228B168A90083530A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46DA8BC028B168A90083530A /* Main.storyboard */; };
 		46DA8BC428B168AD0083530A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46DA8BC328B168AD0083530A /* Assets.xcassets */; };
 		46DA8BC728B168AD0083530A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46DA8BC528B168AD0083530A /* LaunchScreen.storyboard */; };
+		46DA8BCF28B16C3B0083530A /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 46DA8BCE28B16C3B0083530A /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		46DA8BC328B168AD0083530A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		46DA8BC628B168AD0083530A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		46DA8BC828B168AD0083530A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		46DA8BCE28B16C3B0083530A /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				46DA8BBE28B168A90083530A /* ViewController.swift */,
 				46DA8BC028B168A90083530A /* Main.storyboard */,
 				46DA8BC328B168AD0083530A /* Assets.xcassets */,
+				46DA8BCE28B16C3B0083530A /* start.txt */,
 				46DA8BC528B168AD0083530A /* LaunchScreen.storyboard */,
 				46DA8BC828B168AD0083530A /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				46DA8BC728B168AD0083530A /* LaunchScreen.storyboard in Resources */,
+				46DA8BCF28B16C3B0083530A /* start.txt in Resources */,
 				46DA8BC428B168AD0083530A /* Assets.xcassets in Resources */,
 				46DA8BC228B168A90083530A /* Main.storyboard in Resources */,
 			);
